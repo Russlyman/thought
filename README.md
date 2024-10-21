@@ -53,6 +53,9 @@ Thought’s target audience is those who have an interest in mental health and t
 
 ### Wireframes
 
+#### Font
+The font I chose was Inter. I decided to use only one font for this project because I felt that I could create enough variations using different sizes and weights to instil a hierarchy. Inter seemed a particularly compelling choice because of its nature as a sans-serif font; I felt this was particularly important because it’s easily legible for those who have vision problems or dyslexia as mental health can affect anyone. I also feel that Inter is a very neutral font and doesn’t have an overbearing personality which makes it very appropriate for this context as the font is solely being used as a vehicle to transfer information and mental health.
+
 Include wireframes for key sections of your website.  
 Briefly describe the design choices, including layout, colour schemes, and fonts.  
 **Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
