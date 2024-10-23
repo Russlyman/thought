@@ -94,6 +94,10 @@ Provide any additional insights gained during the project and thoughts on the ov
 
 [Bootstrap 5 Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
+[unDraw Illustrations](https://undraw.co/)
+
+[openColor](https://yeun.github.io/open-color/)
+
 ## Future Improvements
 
 Future improvements that could be made to the website include the creation of extra pages that link to the existing links to the website, which could consist of a contact form, a blog and animations to create interest and provide further depth to the website.
