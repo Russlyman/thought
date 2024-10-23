@@ -41,6 +41,8 @@ The font I chose was Inter. I decided to use only one font for this project beca
 
 #### Colour Scheme
 
+I used an off the shelf colour scheme from the website Open Colour and chose a purple theme as I found this to be calming, I took into consideration the colour contrast and tested this against the background using http://colourcontrast.cc
+
 ### Accessibility Considerations
 
 To ensure accessibility on the website I used alt text on the images I and aria attributes, I also used colours with an appropriate contrast to retain readability, and my choice of font was also chosen with accessibility in mind.
@@ -55,38 +57,23 @@ ChatGPT was used to generate the paragraphs of copy on the website, it was very 
 
 ### Testing Results
 
-Summarize the results of testing across different devices and screen sizes.  
-Mention any issues found and how they were resolved.  
-**Guidance:** Summarize the results of your testing across various devices using tools like Chrome DevTools, as outlined in Phase 2. Mention any issues found and how they were resolved.
-
-### Validation
-
-Discuss the validation process for HTML and CSS using W3C and Jigsaw validators.  
-Include the results of the validation process.  
-**Guidance:** Document your use of W3C and Jigsaw validators to ensure your HTML and CSS meet web standards. Include any errors or warnings encountered and how they were resolved.
+I used the development tools on Firefox to test the responsiveness of the website throughout it's development. It was very effective at highlighting problems early on in the project.
 
 ## Deployment
 
 ### Deployment Process
 
-Briefly describe the deployment process to GitHub Pages or another cloud platform.  
-Mention any specific challenges encountered during deployment.  
-**Guidance:** Describe the steps you took to deploy your website during Phase 4: Final Testing, Debugging & Deployment, including any challenges encountered.
+I deployed this website using GitHub Pages by enabling it's functionality in the settings of the repository and selecting the main branch.
 
 ## Reflection on Development Process
 
 ### Successes
 
-Effective use of AI tools, including GitHub Copilot and DALL-E, and how they contributed to the development process.
+The project is responsive on all sizes of display and for the content I have produced I am proud.
 
 ### Challenges
 
-Describe any challenges faced when integrating AI-generated content and how they were addressed.
-
-### Final Thoughts
-
-Provide any additional insights gained during the project and thoughts on the overall process.  
-**Guidance:** Begin drafting reflections during Phase 1 and update throughout the project. Finalize this section after Phase 4. Highlight successes and challenges, particularly regarding the use of AI tools, and provide overall insights into the project.
+By doing this project I have come to the realisation that I do not enjoy using Bootstrap and would prefer to write pure CSS as I wasted a large portion of time trying to implement the design in Bootstrap when doing so in pure CSS would have been easier.
 
 ## Code Attribution
 
