@@ -29,26 +29,6 @@ Thought’s target audience is those who have an interest in mental health and t
   - Provide links to long form content for those who wish to educate themselves further.
   - All advice should be referenced.
 
-### Should-Have User Stories
-
-- **User Story 1:** Briefly describe the should-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-- **User Story 2:** Briefly describe the should-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-
-(Include all prioritized should-have features)  
-**Guidance:** Document the secondary features that you aim to implement in Phase 3: Should User Stories Implementation & Any Advanced Features. Include clear acceptance criteria for each.
-
-### Could-Have User Stories
-
-- **User Story 1:** Briefly describe the could-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-- **User Story 2:** Briefly describe the could-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-
-(Include any could-have features considered for future enhancements)  
-**Guidance:** Document any optional features that are nice to have but not essential.
-
 ## Design Decisions
 
 ### Wireframes
@@ -59,54 +39,17 @@ Thought’s target audience is those who have an interest in mental health and t
 
 The font I chose was Inter. I decided to use only one font for this project because I felt that I could create enough variations using different sizes and weights to instil a hierarchy. Inter seemed a particularly compelling choice because of its nature as a sans-serif font; I felt this was particularly important because it’s easily legible for those who have vision problems or dyslexia as mental health can affect anyone. I also feel that Inter is a very neutral font and doesn’t have an overbearing personality which makes it very appropriate for this context as the font is solely being used as a vehicle to transfer information and mental health.
 
-Include wireframes for key sections of your website.  
-Briefly describe the design choices, including layout, colour schemes, and fonts.  
-**Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
+#### Colour Scheme
 
 ### Accessibility Considerations
 
-Discuss how accessibility guidelines were adhered to, including colour contrast and alt text for images.  
-**Guidance:** Outline how you've incorporated accessibility into your design, ensuring that your project adheres to guidelines such as WCAG.
+To ensure accessibility on the website I used alt text on the images I and aria attributes, I also used colours with an appropriate contrast to retain readability, and my choice of font was also chosen with accessibility in mind.
 
 ## AI Tools Usage
 
-### DALL-E
+### ChatGPT
 
-Describe how DALL-E was used for image generation, including examples of successes and challenges.  
-**Guidance:** Specifically mention how you used DALL-E for image generation and the impact this had on your design process.
-
-## Features Implementation
-
-### Core Features (Must-Haves)
-
-- **Feature 1:** Description of the implemented feature.
-- **Feature 2:** Description of the implemented feature.
-
-(Include all must-have features)  
-**Guidance:** Use this section as you complete Phase 2: Must User Stories Implementation & Testing. Document all the must-have features you implemented, explaining how they align with the user stories and acceptance criteria.
-
-### Advanced Features (Should-Haves)
-
-- **Feature 1:** Description of the implemented feature.
-- **Feature 2:** Description of the implemented feature.
-
-(Include all should-have features)  
-**Guidance:** Include any advanced features you implemented during Phase 3: Should User Stories Implementation & Any Advanced Features. Explain how these features enhance user experience and their alignment with the acceptance criteria.
-
-### Optional Features (Could-Haves)
-
-- **Feature 1:** Description of the implemented feature (if any).
-- **Feature 2:** Description of the implemented feature (if any).
-
-(Include any could-have features that were implemented or considered)  
-**Guidance:** If any could-have features were implemented, describe them here. This is an opportunity to showcase extra work done beyond the initial scope. But remember - keep it simple! Focus on the Must stories first. Could user story features are commonly earmarked for future project iterations.
-
-## AI Tools Usage
-
-### GitHub Copilot
-
-Describe how GitHub Copilot assisted in coding, including any challenges or adjustments needed.  
-**Guidance:** Reflect on how GitHub Copilot assisted in coding, particularly any challenges or adjustments that were needed to align with project goals.
+ChatGPT was used to generate the paragraphs of copy on the website, it was very successful at achieving this after refining the prompt I used to be more specific as initially it was writing copy that was too long and not in a paragraph format.
 
 ## Testing and Validation
 
@@ -122,13 +65,6 @@ Discuss the validation process for HTML and CSS using W3C and Jigsaw validators.
 Include the results of the validation process.  
 **Guidance:** Document your use of W3C and Jigsaw validators to ensure your HTML and CSS meet web standards. Include any errors or warnings encountered and how they were resolved.
 
-## AI Tools Usage
-
-### GitHub Copilot
-
-Brief reflection on the effectiveness of using AI tools for debugging and validation.  
-**Guidance:** Reflect on how GitHub Copilot assisted with debugging and validation, particularly any issues it helped resolve.
-
 ## Deployment
 
 ### Deployment Process
@@ -136,13 +72,6 @@ Brief reflection on the effectiveness of using AI tools for debugging and valida
 Briefly describe the deployment process to GitHub Pages or another cloud platform.  
 Mention any specific challenges encountered during deployment.  
 **Guidance:** Describe the steps you took to deploy your website during Phase 4: Final Testing, Debugging & Deployment, including any challenges encountered.
-
-## AI Tools Usage
-
-### Reflection
-
-Describe the role AI tools played in the deployment process, including any benefits or challenges.  
-**Guidance:** Reflect on how AI tools assisted with the deployment process, particularly how they streamlined any tasks or presented challenges.
 
 ## Reflection on Development Process
 
@@ -161,10 +90,10 @@ Provide any additional insights gained during the project and thoughts on the ov
 
 ## Code Attribution
 
-Properly attribute any external code sources used in the project (excluding GitHub Copilot-generated code).  
-**Guidance:** Document any external code sources used throughout the entire project, especially during Phase 2 and Phase 3. Exclude GitHub Copilot-generated code from attribution.
+[Love Rosie](https://github.com/Russlyman/love-rosie)
+
+[Bootstrap 5 Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 ## Future Improvements
 
-Briefly discuss potential future improvements or features that could be added to the project.  
-**Guidance:** Reflect on potential enhancements that could be made to the project after Phase 4: Final Testing, Debugging & Deployment. These could be Could user story features you didn’t have time to implement or improvements based on testing feedback.
+Future improvements that could be made to the website include the creation of extra pages that link to the existing links to the website, which could consist of a contact form, a blog and animations to create interest and provide further depth to the website.
