@@ -17,4 +17,14 @@ h6,
 .nav-item {
   font-weight: bold;
   text-transform: lowercase;
+  color: #7048e8;
+}
+
+.btn-primary {
+  background-color: #7048e8;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #9775fa;
 }
