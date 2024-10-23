@@ -16,8 +16,5 @@ h5,
 h6,
 .nav-item {
   font-weight: bold;
-}
-
-h1 {
   text-transform: lowercase;
 }
